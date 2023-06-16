@@ -6,7 +6,7 @@ Shortly saying this application maintaines its own states with different **hiera
 ---
 
  Alternatively we can use Redux store keep the whole Context in a single application. \
- View the production build [here](https://nandhakumarsj-budget-allocator.netlify.app/)
+ View [the production build here](https://nandhakumarsj-budget-allocator.netlify.app/)
 ## Note
 * Though the use of context is encouraged this experimented to replace that hook .
 * ` useReducer ` works best for ` useContext ` hook in this case
